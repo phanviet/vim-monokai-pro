@@ -26,7 +26,7 @@ After the installation, configure it as your colorscheme by putting the followin
 
 ``` bash
 set termguicolors
-set colorscheme monokai_pro 
+colorscheme monokai_pro 
 ```
 
 ## Screenshots
