@@ -31,6 +31,12 @@ set termguicolors
 colorscheme monokai_pro
 ```
 
+lightline
+```bash
+let g:lightline = {
+      \ 'colorscheme': 'monokai_pro',
+      \ }
+```
 ## Screenshots
 
 #### Javascript
