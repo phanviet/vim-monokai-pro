@@ -10,16 +10,16 @@ Monokai Pro color scheme for Vim / Neovim. Inspired by https://www.monokai.pro/.
   + Add `Plug 'phanviet/vim-monokai-pro'` to your `init.vim` (Neovim) or `.vimrc` (Vim) file.
   + Run `:PlugInstall` after resourcing/relaunching.
 
-- Manual install. Move `vim-monokai-pro.vim` to runtime path directory:
+- Manual install. Move `monokai-pro.vim` to runtime path directory:
   + Neovim:
 	``` bash
 	cd phanviet/colors
-	mv vim-monokai-pro.vim ~/.config/nvim/colors
+	mv monokai-pro.vim ~/.config/nvim/colors
 	```
   + Vim:
 	``` bash
 	cd phanviet/colors
-	mv vim-monokai-pro.vim ~/.vim/colors
+	mv monokai-pro.vim ~/.vim/colors
 	```
 
 ## Usage
